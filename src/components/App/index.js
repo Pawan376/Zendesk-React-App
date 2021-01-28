@@ -1,7 +1,6 @@
-import React from 'react'
-import './style.scss'
-import zafClient from '../../zafClient'
-import Footer from '../Footer'
+import React from 'react';
+import './style.scss';
+import zafClient from '../../zafClient';
 
 const App = () => {
   const [requester, setRequester] = React.useState(null)
@@ -17,9 +16,8 @@ const App = () => {
   return (
     <div className="App">
       <p className="Requester-name">Requesters name is {requester ? requester.name : ''}.</p>
-      <Footer />
     </div>
   )
 }
 
-export default App
+export default App;

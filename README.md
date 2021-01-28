@@ -1,4 +1,4 @@
-# Boilerplate for Zendesk App Framework v2 using React
+# Zendesk App Framework v2 using React
 
 ## Includes
 
@@ -12,7 +12,7 @@
 
 ## How to use it
 
-Start by cloning this repository with `git clone https://github.com/Cloudhuset/Zendesk-React-App-Boilerplate.git`
+Start by cloning this repository with `git clone https://github.com/Pawan376/Zendesk-React-App.git/Zendesk-React-App-Boilerplate.git`
 
 ### Commands
 
